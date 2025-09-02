@@ -7,7 +7,7 @@ Web Developer
 An IT enthusiast with a strong passion for web development. I enjoy building efficient, scalable, and secure applications while continuously learning and exploring new technologies in the ever-evolving tech landscape.
 
 * 🌍  I'm based in Ghorahi, Nepal
-* ✉️  You can contact me at [vimprakasholi@gmail.com](mailto:vimprakasholi@gmail.com) | [+977-9813456034](tel:+977-9813456034)
+* ✉️  You can contact me at [vimprakasholi@gmail.com](mailto:vimprakasholi@gmail.com)
 
 ### Skills
 
